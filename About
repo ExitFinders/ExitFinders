@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About ExitFinders</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      color: #333;
+    }
+    header {
+      background-color: #0056b3;
+      color: white;
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    section h2 {
+      font-size: 32px;
+      color: #0056b3;
+      margin-bottom: 20px;
+    }
+    section p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    footer {
+      background-color: #0056b3;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="logo.png" alt="ExitFinders Logo" style="height: 40px; vertical-align: middle;">
+    </div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="index.html#services">Services</a>
+      <a href="team.html">Team</a>
+      <a href="index.html#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>About ExitFinders</h2>
+    <p>ExitFinders is dedicated to helping business owners find the perfect buyer for their company. Whether you're planning retirement or exploring new ventures, we provide expert support every step of the way. Our mission is to make your exit smooth, profitable, and stress-free.</p>
+
+    <h2>Our Goals</h2>
+    <p>At ExitFinders, our top priority is building strong, trustworthy relationships with each of our clients. We believe that a successful business transition is about more than just numbers—it's about understanding the unique needs and goals of every business owner we work with. Our mission is to create a low-stress, supportive environment where owners feel confident and informed at every step of the process. By focusing on personalized service and clear communication, we ensure that each deal is not only profitable but also smooth, secure, and beneficial for everyone involved.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 ExitFinders. All rights reserved.
+  </footer>
+</body>
+</html>
